@@ -8,10 +8,7 @@ Nesta aula aparendemos sobre metodos básicos. São eles: len, type,For, listas,
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código
-Linguagens
-Bibliotecas
-
+> Replit e VScode
 
 ## Versões:
 
